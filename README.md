@@ -29,7 +29,8 @@ Python, Jupyter Notebook, Pandas, numpy, Matplotlib, Seaborn.
 
 ## Screenshots
 
-
+![pubg_analysis_line](https://user-images.githubusercontent.com/29105619/150647516-098d8f9b-1dd8-48f1-8556-1e5e2504a8d2.png)
+![correlation_mat](https://user-images.githubusercontent.com/29105619/150647528-482c1cad-d6cb-4bd6-9996-514e21281878.png)
 
 ## Run Locally
 
